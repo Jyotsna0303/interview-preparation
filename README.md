@@ -1,7 +1,7 @@
 # interview-questions asked 2025
-1. Design and implement a cache system
-2. There is a stream of millions of integers which are coming in sorted order, how will you find a given integer from this? efficiently?
-3. LRU question in python
+1. Design and implement a cache system LRU question in python
+2. LFU Cache in python
+3. There is a stream of millions of integers which are coming in sorted order, how will you find a given integer from this? efficiently?
 4. Log Parsing You have logs of the application server and you have to generate a CSV in which you will count the number if messages per process per second.
 5. Health check Write a python script that does a continuous health check on a process and starts it if its not working.
 6. Get system stats and send them to an api. Write a program to get the load average of the machine and send it to the external endpoint.
